@@ -25,6 +25,15 @@
   },
 "dependencies": {
 	},
+	"scopedRegistries": [
+    {
+      "name": "lenovo Registry",
+      "url": "https://github.com/z1246584501/TestLenovoAR/",
+      "scopes": [
+        "com.lenovo.trx.core"
+      ]
+    }
+  ],
 	"repository": {
 	
 }
