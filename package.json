@@ -1,6 +1,6 @@
 {
   "name": "com.lenovo.trx.core",
-  "version": "2.1.14",
+  "version": "2.1.15",
   "displayName": "ThinkReality eXtensions for Unity Core",
   "description": "Core Package of ThinkReality eXtensions for Unity",
   "unity": "2021.3",
@@ -15,9 +15,9 @@
         "url": "https://developer.lenovo.com/"
     },
  "license": "see README.md",
- "_id": "com.lenovo.trx.core@2.1.14",
- "_nodeVersion": "2.1.14",
- "_npmVersion": "2.1.14",
+ "_id": "com.lenovo.trx.core@2.1.15",
+ "_nodeVersion": "2.1.15",
+ "_npmVersion": "2.1.15",
  "dist": {
         "integrity": "sha512-EnKHhZQ0eLnG7+vg6xZl6awFdF66v0izPu2pTq++39oB543e+6b9kj0sZEkCNJAj8Q5mWG8dNHz/6yRP/VZsPg==",
         "shasum": "3c45dd6bc5d6368670929fcf7446c067e8f66489",
@@ -30,7 +30,7 @@
       "name": "lenovo Registry",
       "url": "https://github.com/z1246584501/TestLenovoAR/",
       "scopes": [
-        "com.lenovo.trx.core"
+        "com.lenovo.trx"
       ]
     }
   ],
